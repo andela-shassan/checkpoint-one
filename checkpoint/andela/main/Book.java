@@ -67,7 +67,7 @@ public class Book {
     --noOfCopies;
   }
   
-  // Increase number of book when then return book.
+  // Increase number of book when they return book.
   public void incrementBook(){
     ++noOfCopies;
   }
